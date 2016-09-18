@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "assemblage/routers"
+	_ "github.com/blind238/assemblage/routers"
 	"github.com/astaxie/beego"
 )
 

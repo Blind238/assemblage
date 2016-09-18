@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"assemblage/controllers"
+	"github.com/blind238/assemblage/controllers"
 	"github.com/astaxie/beego"
 )
 
